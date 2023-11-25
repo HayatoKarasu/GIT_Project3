@@ -1,2 +1,5 @@
-def perim_func(a, b, c):
-    return a+b+c
+def perim_fun(arr):
+    summa = 0
+    for storona in arr:
+        summa += storona
+    return summa
