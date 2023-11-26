@@ -1,0 +1,4 @@
+GIT_Project2/
+src/modules/*.txt
+!src/modules/test.txt
+**/__pycache__/
